@@ -1,21 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Nunito:wght@500&display=swap');
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 
 }
+<<<<<<< HEAD
+>>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
+=======
 >>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
 
 body{
     font-size: 15px;
     font-family: 'Nunito', sans-serif;
 <<<<<<< HEAD
+<<<<<<< HEAD
     
+=======
+>>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
 =======
 >>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
 
@@ -35,6 +44,7 @@ font-family: 'Nunito', sans-serif;*/
     border-radius: 45px;
     border-style: none;
     font-size: 20px; 
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
    
@@ -81,6 +91,8 @@ font-family: 'Nunito', sans-serif;*/
 }
    
 =======
+=======
+>>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
       
 }
 #boton-container{
@@ -144,5 +156,9 @@ h3{font-family: 'Nunito', sans-serif;
     p{
         margin-bottom: 80px;
     }
+<<<<<<< HEAD
+ }
+>>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
+=======
  }
 >>>>>>> 152cf9bd5cd7b3dab42cf5bca7745b01c8bd9ba8
